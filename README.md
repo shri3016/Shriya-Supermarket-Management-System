@@ -1,6 +1,7 @@
 # Shriya-Supermarket-Management-System
 
 **Purpose of Project**
+
 This is a college project for making the supermarket service faster and easier.
 
 **Main Functionalities**
@@ -16,7 +17,9 @@ This is a college project for making the supermarket service faster and easier.
 
 **How to access**
 
-> Download it as a zip
+ 
+
+- Download it as a zip
 
 OR
 
